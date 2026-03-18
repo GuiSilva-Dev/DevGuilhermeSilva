@@ -187,23 +187,23 @@
   }
 
   #project1 {
-    background-image: url(img-port/saas.jpg);
+    background-image: url(../Img/saas.jpg);
     right: 5%;
     margin-top: 5rem;
   }
 
   #project2 {
-    background-image: url(img-port/software.webp);
+    background-image: url(../Img/software.webp);
     left: 5%;
   }
 
   #project3 {
-    background-image: url(img-port/pexels-designecologist-1779487.jpg);
+    background-image: url(../Img/pexels-designecologist-1779487.jpg);
     right: 5%;
   }
 
   #project4 {
-    background-image: url(img-port/pexels-negativespace-97077.jpg);
+    background-image: url(../Img/pexels-negativespace-97077.jpg);
     left: 5%;
   }
 
